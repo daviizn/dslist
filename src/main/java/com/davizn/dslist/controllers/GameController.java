@@ -1,7 +1,6 @@
 package com.davizn.dslist.controllers;
 
 import com.davizn.dslist.dto.GameMinDTO;
-import com.davizn.dslist.entities.Game;
 import com.davizn.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
